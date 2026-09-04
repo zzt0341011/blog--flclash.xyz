@@ -1,6 +1,6 @@
-baseURL = 'https://clashvergerev.app/'
+baseURL = 'https://flclash.xyz/'
 languageCode = 'en-us'
-title = 'clashvergerev.app'
+title = 'flclash.xyz'
 theme='hugo-book'
 
 # Book configuration
